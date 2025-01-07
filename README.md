@@ -1,24 +1,18 @@
-Welcome to the NextJS base template bootstrapped using the `create-next-app`. This template supports TypeScript, but you can use normal JavaScript as well.
+# Interview Objective: Todo List Application
 
-## Getting Started
+## Objective  
+Create a Todo List application with the following minimum requirements:  
+1. Ability to **fetch**, **create**, and **update** todo items.  
+2. Display the todos with a **completion state**.  
 
-Hit the run button to start the development server.
+## Plus Points  
+- Implement **complete CRUD functionality** (Fetch, Create, Update, and Delete) within the interview session.
+- Use proper type definition.  
+- Use **custom hooks** to organize logic and improve code reusability.  
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+## Expected Deliverables  
+1. A functional UI to display and manage the todo list.  
+2. API integration to handle data fetching, creation, update, and optionally delete operations.  
+3. Clean and modular code with reusable custom hooks.  
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on `/api/hello`. This endpoint can be edited in `pages/api/hello.ts`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-## Productionizing your Next App
-
-To make your next App run smoothly in production make sure to deploy your project with [Repl Deployments](https://docs.replit.com/hosting/deployments/about-deployments)!
-
-You can also produce a production build by running `npm run build` and [changing the run command](https://docs.replit.com/programming-ide/configuring-repl#run) to `npm run start`.
+Good luck! 🚀

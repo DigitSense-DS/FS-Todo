@@ -14,3 +14,11 @@ a {
 * {
   box-sizing: border-box;
 }
+
+main {
+  padding: 1rem 2rem;
+}
+
+.todo-list .completed {
+  text-decoration: line-through;
+}
