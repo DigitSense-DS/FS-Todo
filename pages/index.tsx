@@ -2,7 +2,6 @@ import type { NextPage } from "next";
 
 const Home: NextPage = () => {
   return (
-    <main>
       <h1>Todo List</h1>
       {/* should map the todos */}
       <ul className="todo-list">
@@ -18,7 +17,6 @@ const Home: NextPage = () => {
           <button type="submit">Add</button>
         </form>
       </div>
-    </main>
   );
 };
 
