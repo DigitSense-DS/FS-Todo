@@ -2,8 +2,9 @@
 
 ## Objective  
 Create a Todo List application with the following minimum requirements:  
-1. Ability to **fetch**, **create**, and **update** todo items.  
-2. Display the todos with a **completion state**.  
+1. Ability to **fetch** and **create** todo items.  
+2. Resolve all errors to ensure the app builds successfully without any issues.
+
 
 ## Plus Points  
 - Implement **complete CRUD functionality** (Fetch, Create, Update, and Delete) within the interview session.
